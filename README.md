@@ -39,8 +39,7 @@ The thesis presents an in-depth analysis of image scaling methodologies, focusin
 
 ## 🖼️ Sample Output
 
-![Models_Output_Comparision](Interpretation-and-Interpolation-of-Pixel-Values-Improvement-of-Image-Scaling-Methods/Output
-/Models_Output_Comparision.PNG)
+![Models Output Comparison](https://github.com/mihirpatil37/Interpretation-and-Interpolation-of-Pixel-Values-Improvement-of-Image-Scaling-Methods/blob/main/Output/Models_Output_Comparision.PNG?raw=true)
 
 ---
 ## 📊 Results Summary  
