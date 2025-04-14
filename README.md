@@ -1,5 +1,3 @@
-Sure! Here's your README with some thoughtfully placed emojis to make it more engaging while keeping the academic tone intact:
-
 ---
 
 # 🎓 Master Thesis: *Interpretation and Interpolation of Pixel Values - Improvement of Image Scaling Methods*
@@ -17,14 +15,87 @@ The thesis presents an in-depth analysis of image scaling methodologies, focusin
 - 🖼️ **Datasets**: Set5, Set14, Medical Images, and Satellite Images.
 
 ## 📁 Repository Structure  
+Got it! Here's your updated **Project Structure** section, formatted clearly with emojis and organized neatly to reflect the files and folders you mentioned:
+
+---
+
+## 📁 Project Structure
+
 ```
-├── Autoencoder/           # 🧠 Autoencoder model implementation
-├── ESPCN/                 # ⚙️ ESPCN (Efficient Sub-Pixel CNN) model code
-├── Image_Data/            # 🖼️ Datasets used for training & testing
-├── Model Evaluation & Plot/  # 📊 Evaluation metrics and visualization scripts
-├── SRCNN/                 # 🧪 SRCNN model implementation
-├── SRGAN/                 # 🎨 SRGAN model for perceptual quality enhancement
-├── Master_Thesis.pdf      # 📑 Final thesis document
+├── Autoencoder/
+│   ├── Autoencoder
+│   ├── Autoencoder_Subpixel_x2
+│   ├── Autoencoder_Subpixel_test_x2.ipynb
+│   ├── autoencoder_subpixel_x2.ipynb
+│   ├── Autoencoder_Subpixel_x4
+│   └── Autoencoder_subpixel_x2.h5
+│
+├── Bicubic Interpolation/
+│   ├── Bicubic Interpolation
+│   └── Bicubic_Interpolation.ipynb
+│
+├── Bilinear Interpolation/
+│   ├── Bilinear Interpolation
+│   └── Bilinear_Interpolation.ipynb
+│
+├── ESPCN/
+│   ├── ESPCN
+│   ├── ESPCNx2
+│   ├── ESPCN_test_x2.ipynb
+│   ├── ESPCN_x2.ipynb
+│   ├── ESPCNx2.h5
+│   ├── ESPCNx4
+│   ├── ESPCN_test_x4
+│   ├── ESPCN_x4
+│   └── ESPCNx4.h5
+│
+├── SRCNN/
+│   ├── SRCNN
+│   └── model_weights.h5
+│
+├── SRGAN/
+│   └── SRGAN_Parameters.png
+│
+├── Image_Data/
+│   ├── Set5_Head.png
+│   ├── Set5_Time.png
+│   ├── Set5_results.png
+│   ├── Set14.png
+│   └── Set14_coastgaurd.png
+│
+├── Visuals & Figures/
+│   ├── Autoencoder Deconvolution Parameters.png
+│   ├── Autoencoder model structure.png
+│   ├── Deep Neural Network.png
+│   ├── Deep learning venn diagram.png
+│   ├── ESPCN Parameters.png
+│   ├── ESPCN model structure.png
+│   ├── Interpolation image.png
+│   ├── Literature Review.png
+│   ├── SRCNN.png
+│   ├── SRCNN_Parameters.png
+│   ├── srcnn model structure.png
+│   ├── fig1.png
+│   ├── fig2.png
+│   ├── fig3.png
+│   ├── fig5.png
+│   ├── fig6.png
+│   └── SharedScreenshot.png
+│
+├── Model Evaluation & Plot/
+│   └── Evaluation_and Plot
+│
+├── Nearest Neighbour Interpolation/
+│   └── NN_Interpolation.ipynb
+│
+├── PDFS/
+│   ├── Master_Thesis.pdf
+│   └── Master's Presentation.pptx
+│
+└── README.md 📄
+```
+
+Let me know if you'd like to link this with your GitHub README or want a tree view generator script for automation.
  
 ```
 
